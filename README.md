@@ -14,9 +14,10 @@ Hey! My name is Romeo. I am a french student living in Paris currently studying 
 	 - **Java**
 	 - **Javascript**
 	 - **HTML**
-   - **CSS/SCCS**
-   - **C**
-   - **C++ (Arduino)**
+	 - **Python**
+	 - **CSS/SCCS**
+	 - **C**
+	 - **C++ (Arduino)**
    
 My passion in programming is to create "spaces" from "nothing" to address a problem, to meet the needs of users, or to transport or entertain. That's why I'm also interested in artistic creation. 
    
