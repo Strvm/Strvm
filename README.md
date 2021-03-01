@@ -12,7 +12,7 @@ Hey! My name is Romeo. I am a french student living in Paris currently studying 
 
  - My programming knowledge:
 	 - **Java**
-	 - **Javascript**
+	 - **Javascript (Three.JS, React, TypeScript)**
 	 - **HTML**
 	 - **Python**
 	 - **CSS/SCCS**
