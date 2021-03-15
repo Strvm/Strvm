@@ -8,7 +8,7 @@
 </p>
 
 
-Hey! My name is Romeo. I am a french student living in Paris currently studying programming, design and marketing at @ecolehetic located in Montreuil, France. 
+Hey! My name is Romeo. I am a french student living in Paris currently studying programming, design and marketing at [@ecolehetic](https://github.com/ecolehetic) located in Montreuil, France. 
 
  - My programming knowledge:
 	 - **Java**
