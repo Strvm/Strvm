@@ -15,6 +15,7 @@ Hey! My name is Romeo. I am a french student living in Paris currently studying 
 	 - **Javascript (Three.JS, React, TypeScript)**
 	 - **HTML**
 	 - **Python**
+	 - **PHP**
 	 - **CSS/SCCS**
 	 - **C**
 	 - **C++ (Arduino)**
