@@ -8,9 +8,9 @@
 </p>
 
 
-Hey! My name is Romeo. I am a french student living in Paris currently studying programming, design and marketing at [@esd](https://ecole-du-digital.com/) located in Paris, France. 
+Hey! My name is Romeo. Currently a Data Engineer at https://echo-analytics.io/,  located in Paris, France. 
 
- - My programming knowledge:
+ - My programming stack:
 	 - **Java**
 	 - **Javascript (Three.JS, React, TypeScript)**
 	 - **HTML**
@@ -19,7 +19,4 @@ Hey! My name is Romeo. I am a french student living in Paris currently studying 
 	 - **CSS/SCCS**
 	 - **C**
 	 - **C++ (Arduino)**
-   
-My passion in programming is to create "spaces" from "nothing" to address a problem, to meet the needs of users, or to transport or entertain. That's why I'm also interested in artistic creation. 
-   
 
