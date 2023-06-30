@@ -11,10 +11,10 @@
 Hey! My name is Romeo. Currently a Data Engineer at https://echo-analytics.io/,  located in Paris, France. 
 
  - My programming stack:
+	 - **Python**
 	 - **Java**
 	 - **Javascript (Three.JS, React, TypeScript)**
 	 - **HTML**
-	 - **Python**
 	 - **PHP**
 	 - **CSS/SCCS**
 	 - **C**
