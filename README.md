@@ -8,15 +8,5 @@
 </p>
 
 
-Hey! My name is Romeo. Currently a Data Engineer at https://echo-analytics.io/,  located in Paris, France. 
-
- - My programming stack:
-	 - **Python**
-	 - **Java**
-	 - **Javascript (Three.JS, React, TypeScript)**
-	 - **HTML**
-	 - **PHP**
-	 - **CSS/SCCS**
-	 - **C**
-	 - **C++ (Arduino)**
+Hey! My name is Romeo. Currently a <strong>Data Engineer<\strong> at https://echo-analytics.io/, in Paris, France. 
 
