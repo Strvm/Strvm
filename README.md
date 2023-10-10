@@ -7,5 +7,4 @@
 </p>
 
 
-Hey! My name is Romeo. Currently a <strong>Data Engineer</strong> at https://echo-analytics.io/, in Paris, France. 
-
+Hey! My name is Romeo. 
